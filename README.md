@@ -9,7 +9,7 @@ Allsafe is an intentionally vulnerable application that contains various vulnera
 
 #### Useful Frida Scripts
  
-I have my Frida scripts (more like templates) in other repository. I'm sure they might be quite handy for the Frida related tasks. Check it out: https://github.com/t0thkr1s/frida
+I have my Frida scripts (more like templates) in other repository. I'm sure they might be quite handy for the Frida related tasks. Check it out: https://github.com/t0thkr1s/frida 
 
 ## Tasks / Vulnerabilities
 
