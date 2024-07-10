@@ -15,7 +15,7 @@ I have my Frida scripts (more like templates) in other repository. I'm sure they
 
 ### 1. Insecure Logging
 
-Simple information disclosure vulnerability. Use the `logcat` command-line tool to discover sensitive information.
+Simple information disclosure vulnerability. Use the `logcat` command-line tool to discover sensitive information. 
 
 ###### Resources & HackerOne Reports:
 
